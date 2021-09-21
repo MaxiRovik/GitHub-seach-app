@@ -1,0 +1,25 @@
+.searchBlock {
+  display:flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  width: 380px;
+  height: 40px;
+  background: #FFFFFF;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+          input {
+            font-size: 24px;
+            color: black;
+            width: 350px;
+            margin: 20px;
+            outline: 0;
+            outline-offset: 0;
+            border: none;
+          }
+}
+
+
+
+
+

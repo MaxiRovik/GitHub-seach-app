@@ -1,0 +1,10 @@
+@import '../../variablesSCSS/master';
+
+.ContentBlockWrapper {
+  font-size: 18px;
+  color: $secondMainColor;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap:20px;
+}
